@@ -130,4 +130,4 @@ print("best MCC:", best)
 with open(os.path.join(MODEL_DIR, "metrics.json"), "w") as f:
     json.dump(results, f, indent=2)
 
-print("\nmodels saved in model/. screenshot this table for BITS lab.")
+print("\nmodels saved in model/.")
