@@ -33,9 +33,9 @@ Features were standardised with `StandardScaler` fitted on train only (`model/sc
 
 ## c. Github Repository Link
 
-**GitHub:** (add repo link after pushing)
+**GitHub:** (https://github.com/priyanshulohia2002/ml_project)
 
-**Streamlit app:** (add cloud link after deploying)
+**Streamlit app:** ()
 
 ```
 app.py
