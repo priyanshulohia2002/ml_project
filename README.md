@@ -81,4 +81,3 @@ Same split for all five. Precision / Recall / F1 are for **ozone**.
 ---
 
 App: upload `test_data.csv`, pick a model. Comparison table for all five, then confusion matrix and classification report for the selected one. `app.py` only loads the `.joblib` files; it does not call `fit()`.
-
